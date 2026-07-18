@@ -1,0 +1,65 @@
+﻿<div class="hero-section">
+    <h1>Student Workshop Portal</h1>
+
+    <p>
+        Welcome to the Student Workshop Portal.
+        This application allows students to browse available workshops
+        and submit registration requests.
+    </p>
+</div>
+
+<h2>Upcoming Workshops</h2>
+
+<div class="row">
+
+    <div class="col-md-4">
+        <div class="card workshop-card">
+            <div class="card-body">
+                <h5 class="card-title">ASP.NET Core MVC Basics</h5>
+
+                <p class="card-text">
+                    Learn controllers, models, views, and routing.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card workshop-card">
+            <div class="card-body">
+                <h5 class="card-title">Bootstrap for Web Design</h5>
+
+                <p class="card-text">
+                    Practice responsive design for modern web applications.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card workshop-card">
+            <div class="card-body">
+                <h5 class="card-title">Form Validation</h5>
+
+                <p class="card-text">
+                    Understand model validation and form submission.
+                </p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="mt-4">
+    <a asp-controller="Workshop"
+       asp-action="Index"
+       class="btn btn-primary">
+        View Workshops
+    </a>
+
+    <a asp-controller="Workshop"
+       asp-action="Register"
+       class="btn btn-outline-primary">
+        Register Now
+    </a>
+</div>

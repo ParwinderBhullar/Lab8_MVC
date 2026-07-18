@@ -1,0 +1,555 @@
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\appsettings.Development.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\appsettings.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\Data\registrations.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\Data\workshops.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.runtime.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.endpoints.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.exe
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.deps.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.runtimeconfig.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.pdb
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfoInputs.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfo.cs
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.csproj.CoreCompileInputs.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cs
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\bundle\StudentWorshopPortal.styles.css
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\projectbundle\StudentWorshopPortal.bundle.scp.css
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\9yudm733xz-{0}-ot4mbhnhcv-ot4mbhnhcv.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\albobsnvry-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\3lnltdocjz-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\qcs6sxw38a-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\a2ie4ymmh6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\ux0xfuj8go-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\1vis0cmcwf-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\6kny4b1sid-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\yas5jq0u8e-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\qkjikqqh2p-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\hls2ax7rz5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\jsh6mxauj2-{0}-ub07r2b239-ub07r2b239.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zowkkvhc9e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\svw4mjddh3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\gkbejkd1k5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\j8f7t8y2xt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\fjqt00qs78-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\lkkgt79qrh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\kwp0b71w3w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zykkt6mi1d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\4t289ggauq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\al6wj8tex8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\f3mx9htx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\2ivq1hlfrq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\7awsql4ak3-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\bbqt0sa50j-{0}-06098lyss8-06098lyss8.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\jfvvtpcxs0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\oqanizorep-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\2u5svhj8gs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\2rmz69il8m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\lxubzwvwqf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\1pl33fj4y1-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\ibn2pf4zkl-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zlhr7t3omt-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\2hp5q83zv7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\louygvvw94-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\pwu32q29f9-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\urni4oepsz-{0}-493y06b0oq-493y06b0oq.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\almzb23yid-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\alfahpvvm3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\yv9rswckad-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\xzgrx4k9k1-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\v9zhrqu2kz-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\4aunemg7eq-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\u7bf1u891r-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\tb3r699a8n-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\z5uvcxqtp2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\yffxpmmiub-{0}-47otxtyo56-47otxtyo56.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\20m7ag9dmf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\70nfaxkjv4-{0}-356vix0kms-356vix0kms.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\mudp0dlqai-{0}-83jwlth58m-83jwlth58m.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zmtoo99vpk-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\7iho9erque-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zayrx234rw-{0}-ag7o75518u-ag7o75518u.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\0vn8c6t2lq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\gmu82m44wf-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\vycez3hguz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\yp45q2qcvl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\puqs1fk0b6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\32lmrx1aba-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\zk9yv2aeas-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\7gluauciib-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\40dn4taqsw-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\compressed\wz27xd0uao-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.development.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\swae.build.ex.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\refint\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.pdb
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.genruntimeconfig.cache
+C:\workspace\asp.net\StudentWorkshopPortal_ModelBindingValidation_Clean\StudentWorshopPortal\obj\Debug\net10.0\ref\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\appsettings.Development.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\appsettings.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Data\registrations.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Data\workshops.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.endpoints.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.runtime.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.exe
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.deps.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.runtimeconfig.json
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.pdb
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfoInputs.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfo.cs
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.csproj.CoreCompileInputs.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cs
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\bundle\StudentWorshopPortal.styles.css
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\projectbundle\StudentWorshopPortal.bundle.scp.css
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\9yudm733xz-{0}-ot4mbhnhcv-ot4mbhnhcv.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\albobsnvry-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\3lnltdocjz-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\qcs6sxw38a-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\a2ie4ymmh6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\ux0xfuj8go-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\1vis0cmcwf-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\6kny4b1sid-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\yas5jq0u8e-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\qkjikqqh2p-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\hls2ax7rz5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\jsh6mxauj2-{0}-ub07r2b239-ub07r2b239.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zowkkvhc9e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\svw4mjddh3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\gkbejkd1k5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\j8f7t8y2xt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\fjqt00qs78-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\lkkgt79qrh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\kwp0b71w3w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zykkt6mi1d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\4t289ggauq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\al6wj8tex8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\f3mx9htx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\2ivq1hlfrq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\7awsql4ak3-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\bbqt0sa50j-{0}-06098lyss8-06098lyss8.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\jfvvtpcxs0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\oqanizorep-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\2u5svhj8gs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\2rmz69il8m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\lxubzwvwqf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\1pl33fj4y1-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\ibn2pf4zkl-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zlhr7t3omt-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\2hp5q83zv7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\louygvvw94-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\pwu32q29f9-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\urni4oepsz-{0}-493y06b0oq-493y06b0oq.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\almzb23yid-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\alfahpvvm3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\yv9rswckad-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\xzgrx4k9k1-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\v9zhrqu2kz-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\4aunemg7eq-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\u7bf1u891r-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\tb3r699a8n-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\z5uvcxqtp2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\yffxpmmiub-{0}-47otxtyo56-47otxtyo56.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\20m7ag9dmf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\70nfaxkjv4-{0}-356vix0kms-356vix0kms.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\mudp0dlqai-{0}-83jwlth58m-83jwlth58m.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zmtoo99vpk-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\7iho9erque-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zayrx234rw-{0}-ag7o75518u-ag7o75518u.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\0vn8c6t2lq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\gmu82m44wf-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\vycez3hguz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\yp45q2qcvl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\puqs1fk0b6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\32lmrx1aba-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\zk9yv2aeas-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\7gluauciib-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\40dn4taqsw-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\compressed\wz27xd0uao-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.development.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\swae.build.ex.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\refint\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.pdb
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.genruntimeconfig.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\ref\StudentWorshopPortal.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Azure.Core.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Azure.Identity.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Humanizer.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.ClientModel.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.CodeDom.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Memory.Data.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.csproj.AssemblyReference.cache
+C:\workspace\asp.net\StudentWorshopPortal\obj\Debug\net10.0\StudentW.F52E9E5D.Up2Date
+C:\workspace\asp.net\StudentWorshopPortal\bin\Debug\net10.0\appsettings.Docker.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\appsettings.Docker.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\appsettings.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Data\registrations.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Data\workshops.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.runtime.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.staticwebassets.endpoints.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.exe
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.deps.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.runtimeconfig.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\StudentWorshopPortal.pdb
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Humanizer.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.csproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.AssemblyInfo.cs
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.RazorAssemblyInfo.cs
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\bundle\StudentWorshopPortal.styles.css
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\scopedcss\projectbundle\StudentWorshopPortal.bundle.scp.css
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\9yudm733xz-{0}-ot4mbhnhcv-ot4mbhnhcv.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\albobsnvry-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\3lnltdocjz-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\qcs6sxw38a-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\a2ie4ymmh6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\ux0xfuj8go-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\1vis0cmcwf-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\6kny4b1sid-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\yas5jq0u8e-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\qkjikqqh2p-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\hls2ax7rz5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\jsh6mxauj2-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zowkkvhc9e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\svw4mjddh3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\gkbejkd1k5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\j8f7t8y2xt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\fjqt00qs78-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\lkkgt79qrh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\kwp0b71w3w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zykkt6mi1d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\4t289ggauq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\al6wj8tex8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\f3mx9htx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\2ivq1hlfrq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\7awsql4ak3-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\bbqt0sa50j-{0}-06098lyss8-06098lyss8.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\jfvvtpcxs0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\oqanizorep-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\2u5svhj8gs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\2rmz69il8m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\lxubzwvwqf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\1pl33fj4y1-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\ibn2pf4zkl-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zlhr7t3omt-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\2hp5q83zv7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\louygvvw94-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\pwu32q29f9-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\urni4oepsz-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\almzb23yid-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\alfahpvvm3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\yv9rswckad-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\xzgrx4k9k1-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\v9zhrqu2kz-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\4aunemg7eq-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\u7bf1u891r-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\tb3r699a8n-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\z5uvcxqtp2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\yffxpmmiub-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\20m7ag9dmf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\70nfaxkjv4-{0}-356vix0kms-356vix0kms.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\mudp0dlqai-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zmtoo99vpk-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\7iho9erque-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zayrx234rw-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\0vn8c6t2lq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\gmu82m44wf-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\vycez3hguz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\yp45q2qcvl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\puqs1fk0b6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\32lmrx1aba-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\zk9yv2aeas-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\7gluauciib-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\40dn4taqsw-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\compressed\wz27xd0uao-{0}-4m6rees7ry-4m6rees7ry.gz
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentW.F52E9E5D.Up2Date
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\refint\StudentWorshopPortal.dll
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.pdb
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\StudentWorshopPortal.genruntimeconfig.cache
+C:\Users\harsh\Desktop\mvc c#\Lab8\StudentWorshopPortal\obj\Debug\net10.0\ref\StudentWorshopPortal.dll

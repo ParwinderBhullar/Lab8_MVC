@@ -1,0 +1,63 @@
+﻿@model StudentWorshopPortal.Models.Workshop
+
+<h1>Create Workshop</h1>
+
+<p>
+    Use this form to create a new workshop. Submitted workshop data is bound to
+    the Workshop model and validated with ASP.NET Core model validation.
+</p>
+
+<form asp-controller="Workshop"
+      asp-action="Create"
+      method="post"
+      class="registration-form">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" maxlength="100" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Instructor" class="form-label"></label>
+        <input asp-for="Instructor" class="form-control" maxlength="80" />
+        <span asp-validation-for="Instructor" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Date" class="form-label"></label>
+        <input asp-for="Date" type="date" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Location" class="form-label"></label>
+        <input asp-for="Location" class="form-control" maxlength="80" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description"
+                  class="form-control"
+                  rows="4"
+                  maxlength="500"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Create Workshop
+    </button>
+
+    <a asp-controller="Workshop"
+       asp-action="Index"
+       class="btn btn-outline-secondary">
+        Back to Workshops
+    </a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

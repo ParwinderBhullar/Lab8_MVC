@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Title": "Introduction to ASP.NET Core MVC",
+    "Instructor": "Dr. Smith",
+    "Date": "2026-06-03T00:00:00",
+    "Location": "Room B201",
+    "Description": "Learn the basic structure of ASP.NET Core MVC applications."
+  },
+  {
+    "Id": 2,
+    "Title": "HTML, CSS, and Bootstrap Foundations",
+    "Instructor": "Prof. Johnson",
+    "Date": "2026-06-05T00:00:00",
+    "Location": "Room C110",
+    "Description": "Practice responsive design for modern web applications."
+  },
+  {
+    "Id": 3,
+    "Title": "C# Programming for Web Applications",
+    "Instructor": "Ms. Brown",
+    "Date": "2026-06-07T00:00:00",
+    "Location": "Room A105",
+    "Description": "Review C# syntax used in ASP.NET Core MVC development."
+  },
+  {
+    "Id": 4,
+    "Title": "Working with Controllers and Views",
+    "Instructor": "Mr. Wilson",
+    "Date": "2026-06-10T00:00:00",
+    "Location": "Room D300",
+    "Description": "Understand controller actions and Razor Views."
+  },
+  {
+    "Id": 5,
+    "Title": "Form Handling and Validation",
+    "Instructor": "Dr. Taylor",
+    "Date": "2026-06-12T00:00:00",
+    "Location": "Room B215",
+    "Description": "Create forms and apply validation in ASP.NET Core MVC."
+  },
+  {
+    "Id": 6,
+    "Title": "Test",
+    "Instructor": "Test",
+    "Date": "2026-05-29T00:00:00",
+    "Location": "Test",
+    "Description": "Test"
+  },
+  {
+    "Id": 7,
+    "Title": "Workshop 1",
+    "Instructor": "Workshop 1",
+    "Date": "2026-05-29T00:00:00",
+    "Location": "Workshop 1",
+    "Description": "Workshop 1"
+  }
+]

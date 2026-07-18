@@ -1,0 +1,66 @@
+﻿@model IEnumerable<StudentWorshopPortal.Models.Workshop>
+
+<h1>Available Workshops</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">
+        No workshops are currently available.
+    </div>
+}
+else
+{
+    <div class="row">
+
+        @foreach (var workshop in Model)
+        {
+            <div class="col-md-6 mb-4">
+
+                <div class="card workshop-card">
+                    <div class="card-body">
+
+                        <h5 class="card-title">
+                            @workshop.Title
+                        </h5>
+
+                        <p>
+                            <strong>Instructor:</strong>
+                            @workshop.Instructor
+                        </p>
+
+                        <p>
+                            <strong>Date:</strong>
+                            @workshop.Date?.ToString("MMMM dd, yyyy")
+                        </p>
+
+                        <p>
+                            <strong>Location:</strong>
+                            @workshop.Location
+                        </p>
+
+                        <p>
+                            @workshop.Description
+                        </p>
+
+                        <a asp-controller="Workshop"
+                           asp-action="Details"
+                           asp-route-id="@workshop.Id"
+                           class="btn btn-primary">
+                            View Details
+                        </a>
+
+                    </div>
+                </div>
+
+            </div>
+        }
+
+    </div>
+}

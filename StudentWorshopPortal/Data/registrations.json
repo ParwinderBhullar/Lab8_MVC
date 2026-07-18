@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 3,
+    "StudentFullName": "test",
+    "StudentNumber": "123456",
+    "EmailAddress": "vbogudskyi@gmail.com",
+    "WorkshopTitle": "Workshop 1",
+    "Comments": "test"
+  }
+]

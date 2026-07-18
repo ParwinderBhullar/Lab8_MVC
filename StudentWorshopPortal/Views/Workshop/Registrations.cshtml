@@ -1,0 +1,70 @@
+﻿@model IEnumerable<StudentWorshopPortal.Models.Registration>
+
+<h1>Workshop Registrations</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        No workshop registrations are currently available.
+    </div>
+
+    <a asp-controller="Workshop"
+       asp-action="Register"
+       class="btn btn-primary">
+        Register for a Workshop
+    </a>
+}
+else
+{
+    <table class="table table-bordered table-striped registration-table">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Student Number</th>
+                <th>Email</th>
+                <th>Workshop</th>
+                <th>Comments</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var registration in Model)
+            {
+                <tr>
+                    <td>@registration.StudentFullName</td>
+                    <td>@registration.StudentNumber</td>
+                    <td>@registration.EmailAddress</td>
+                    <td>@registration.WorkshopTitle</td>
+                    <td>@registration.Comments</td>
+                    <td>
+                        <form asp-controller="Workshop"
+                              asp-action="Withdraw"
+                              asp-route-id="@registration.Id"
+                              method="post">
+
+                            <button type="submit"
+                                    class="btn btn-danger btn-sm">
+                                Withdraw
+                            </button>
+
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Workshop"
+       asp-action="Register"
+       class="btn btn-primary">
+        Add Another Registration
+    </a>
+}

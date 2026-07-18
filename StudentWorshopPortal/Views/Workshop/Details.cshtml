@@ -1,0 +1,43 @@
+﻿@model StudentWorshopPortal.Models.Workshop
+
+<h1>@Model.Title</h1>
+
+<div class="card details-card">
+
+    <div class="card-body">
+
+        <p>
+            <strong>Instructor:</strong>
+            @Model.Instructor
+        </p>
+
+        <p>
+            <strong>Date:</strong>
+            @Model.Date?.ToString("MMMM dd, yyyy")
+        </p>
+
+        <p>
+            <strong>Location:</strong>
+            @Model.Location
+        </p>
+
+        <p>
+            <strong>Description:</strong>
+            @Model.Description
+        </p>
+
+        <a asp-controller="Workshop"
+           asp-action="Index"
+           class="btn btn-secondary">
+            Back to Workshops
+        </a>
+
+        <a asp-controller="Workshop"
+           asp-action="Register"
+           class="btn btn-primary">
+            Register
+        </a>
+
+    </div>
+
+</div>

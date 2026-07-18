@@ -1,0 +1,71 @@
+﻿@model StudentWorshopPortal.Models.Registration
+
+<h1>Workshop Registration</h1>
+
+<form asp-controller="Workshop"
+      asp-action="Register"
+      method="post"
+      class="registration-form">
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StudentFullName" class="form-label"></label>
+        <input asp-for="StudentFullName" class="form-control" />
+        <span asp-validation-for="StudentFullName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StudentNumber" class="form-label"></label>
+        <input asp-for="StudentNumber" class="form-control" />
+        <span asp-validation-for="StudentNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="EmailAddress" class="form-label"></label>
+        <input asp-for="EmailAddress" class="form-control" />
+        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="WorkshopTitle" class="form-label"></label>
+
+        <select asp-for="WorkshopTitle" class="form-select">
+            <option value="">-- Select Workshop --</option>
+
+            @foreach (var workshop in ViewBag.Workshops)
+            {
+                <option value="@workshop.Title">
+                    @workshop.Title
+                </option>
+            }
+        </select>
+
+        <span asp-validation-for="WorkshopTitle" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Comments" class="form-label"></label>
+        <textarea asp-for="Comments"
+                  class="form-control"
+                  rows="4"
+                  maxlength="500"></textarea>
+        <span asp-validation-for="Comments" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Submit Registration
+    </button>
+
+    <a asp-controller="Workshop"
+       asp-action="Registrations"
+       class="btn btn-outline-secondary">
+        View Registrations
+    </a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
